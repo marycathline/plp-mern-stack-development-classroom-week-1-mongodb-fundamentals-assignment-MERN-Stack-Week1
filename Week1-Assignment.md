@@ -34,7 +34,7 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 - Implement sorting to display books by price (both ascending and descending)
 - Use the `limit` and `skip` methods to implement pagination (5 books per page)
 
-### Task 4: Aggregation Pipeline
+### Task 4: Aggregation Pipeline 
 - Create an aggregation pipeline to calculate the average price of books by genre
 - Create an aggregation pipeline to find the author with the most books in the collection
 - Implement a pipeline that groups books by publication decade and counts them
